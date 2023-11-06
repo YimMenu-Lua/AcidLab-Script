@@ -1,2 +1,7 @@
-# AcidLab-Script
-AcidLab_features_like_product_value_changer_capacity_changer_and_etc
+# AcidLab Script
+AcidLab script version 0.1
+Features:
+Acid Value Changer(Dont exceed total price of 2M 
+Product capacity
+Supplies delivery amount
+Boost production
